@@ -1,0 +1,1 @@
+worker: python src/bot/app.py
